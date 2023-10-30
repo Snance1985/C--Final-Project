@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sean_\\Desktop\\csharp-course\\final-project\\final-project.csproj",
+      "projectUniqueName": "H:\\Bethel Tech\\coding classes\\csharp-course\\final-project\\final-project.csproj",
       "projectName": "final-project",
-      "projectPath": "C:\\Users\\sean_\\Desktop\\csharp-course\\final-project\\final-project.csproj",
+      "projectPath": "H:\\Bethel Tech\\coding classes\\csharp-course\\final-project\\final-project.csproj",
       "packagesPath": "C:\\Users\\sean_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sean_\\Desktop\\csharp-course\\final-project\\obj\\",
+      "outputPath": "H:\\Bethel Tech\\coding classes\\csharp-course\\final-project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sean_\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,12 +54,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.21, 6.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.21, 6.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.21, 6.0.21]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.21, 6.0.21]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

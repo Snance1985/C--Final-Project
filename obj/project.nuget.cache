@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vlZ2A4XKUqpK8z9HSMVUVg7if9m6vCJcAc6N6t4qQhNQa2HtDnY/dwq5zTNLFg9556mMcj65KcMZe7qCV+50LA==",
+  "dgSpecHash": "4eFYs11DJUkGU3lq10as3j8hUoLghIKI5HSGRdlAJ520TM0uxCDT1Ks3BSBQ4xoeU8xHyiTfjPznbTDu5pj+Jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sean_\\Desktop\\csharp-course\\final-project\\final-project.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "H:\\Bethel Tech\\coding classes\\csharp-course\\final-project\\final-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }
